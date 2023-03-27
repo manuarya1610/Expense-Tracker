@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&family=Quicksand:wght@300&family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 1.1rem;
+  color: white;
+  font-family: "Poiret One", cursive;
+}
+
+body {
+  margin: 0;
+  background-image: url(/src/components/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
