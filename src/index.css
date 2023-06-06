@@ -10,6 +10,7 @@ html {
 }
 
 body {
+  height: 100vh;
   margin: 0;
   background-image: url(/src/components/2.jpg);
   background-repeat: no-repeat;
